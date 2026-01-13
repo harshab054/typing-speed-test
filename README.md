@@ -18,7 +18,8 @@ A fun and interactive **Typing Speed Test** built with **HTML, CSS, and JavaScri
 4. Click **Restart** to try a new paragraph.
 
 ## Demo
-![Typing Speed Test Screenshot](file:///C:/Users/User/Pictures/Screenshots/Screenshot%20(1).png)
+![Typing Speed Test Screenshot]<img width="1920" height="949" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8b7f5e47-81db-469a-96a5-31098227ff32" />
+
 
 ## License
 Free to use and modify.
