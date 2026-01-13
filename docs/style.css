@@ -28,7 +28,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: url('e:\keyboard.jpeg') no-repeat center center fixed;
+    background: url('e:\keyboard.png') no-repeat center center fixed;
     background-size: cover;
     color: white; /* text color for contrast */
     padding: 20px;
@@ -182,4 +182,5 @@ h1 {
 @keyframes glow {
     0% { box-shadow: 0 0 5px rgba(99,102,241,0.5); }
     100% { box-shadow: 0 0 15px rgba(99,102,241,1); }
+
 }
